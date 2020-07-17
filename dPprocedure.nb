@@ -10,14 +10,24 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[       764,         33]
-NotebookOptionsPosition[       561,         21]
-NotebookOutlinePosition[       904,         36]
-CellTagsIndexPosition[       861,         33]
+NotebookDataLength[      1279,         44]
+NotebookOptionsPosition[       986,         31]
+NotebookOutlinePosition[      1329,         46]
+CellTagsIndexPosition[      1286,         43]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
+Cell[BoxData[
+ RowBox[{"(*", 
+  RowBox[{
+  "\:043c\:043e\:0434\:043e\:0432\:044b\:0435", " ", 
+   "\:0444\:0443\:043d\:043a\:0446\:0438\:0438", " ", "\:0434\:043b\:044f", 
+   " ", "\:043a\:0432\:0430\:0437\:0438\:043a\:043b\:0430\:0441\:0441\:0438\
+\:043a\:0438", " ", "vcb_"}], "*)"}]], "Input",
+ CellChangeTimes->{{3.8039956383647327`*^9, 
+  3.803995666639499*^9}},ExpressionUUID->"eeab84a9-99c5-469a-8133-\
+2ca4c9c06858"]
 },
 WindowSize->{759, 833},
 WindowMargins->{{Automatic, 892}, {74, Automatic}},
@@ -35,9 +45,8 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
+Cell[558, 20, 424, 9, 28, "Input",ExpressionUUID->"eeab84a9-99c5-469a-8133-2ca4c9c06858"]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
